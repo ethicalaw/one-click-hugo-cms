@@ -1,3 +1,11 @@
+---
+title: NOTICE
+date: 2019-02-15T16:27:10.000Z
+description: >-
+  Important legal information for readers of this site.
+image: /img/blog-chemex.jpg
+---
+
 # NOTICE
 This website contains analysis and opinion that represent the position of the individuals or entities identified elsewhere on this site regarding events and actions discussed elsewhere on this site. It is presented solely for the information and consideration of the individuals and entities that receive secure access to this site, their staffs, officers, and executives for the exclusive purpose of examining the arguments and requests described elsewhere on this site.  
 
