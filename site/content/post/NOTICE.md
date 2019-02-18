@@ -1,9 +1,8 @@
 ---
 title: NOTICE
 date: 2019-02-15T16:27:10.000Z
-description: >-
-  Important legal information for readers of this site.
-image: /img/blog-chemex.jpg
+description: Important legal information for readers of this site.
+image: /img/about-direct-sourcing.jpg
 ---
 
 # NOTICE
